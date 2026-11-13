@@ -1,4 +1,5 @@
 fastapi
 uvicorn
-openai-whisper
-torch
+groq
+python-multipart
+requests
